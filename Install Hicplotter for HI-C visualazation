@@ -8,6 +8,6 @@ pip list  ##check current package
 pip install matplotlib==1.5.1  ## failed when  conda install matplotlib=1.5.1
 pip install scipy==0.17.0         ## failed when  conda install scipy=0.17.0
 
-usage:
+Usage:
 python2 /home/zec018/software/HiCPlotter/HiCPlotter.py --help
-The default python is python3 regardless environments(written in my bashr), so designate python2 here.
+My default python is python3 regardless environments(written in my bashr), so designate python2 here.
